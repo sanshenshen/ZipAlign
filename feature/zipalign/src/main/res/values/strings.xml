@@ -1,0 +1,37 @@
+<resources>
+    <string name="zipalign_title">ZipAlign</string>
+    <string name="zipalign_subtitle">A direct APK alignment tool with full storage browsing.</string>
+    <string name="zipalign_permission_title">Full File Access Required</string>
+    <string name="zipalign_permission_message">Grant all files access so the app can browse folders directly, read APK files, and export aligned copies into storage.</string>
+    <string name="zipalign_permission_action">Grant Full File Access</string>
+    <string name="zipalign_browser_title">File Manager</string>
+    <string name="zipalign_browser_hint">Browse folders like a file manager. APK files remain selectable, while other files are visible for context.</string>
+    <string name="zipalign_storage_root">Storage Root</string>
+    <string name="zipalign_go_up">Go Up</string>
+    <string name="zipalign_browser_empty">This folder is empty.</string>
+    <string name="zipalign_browser_no_root">Storage root is not available.</string>
+    <string name="zipalign_browser_count">%1$d items</string>
+    <string name="zipalign_loading_files">Loading files...</string>
+    <string name="zipalign_selected_file_title">Selected APK</string>
+    <string name="zipalign_selected_file_empty">Choose an APK file from the file manager.</string>
+    <string name="zipalign_alignment_title">Alignment Options</string>
+    <string name="zipalign_default_alignment">Default alignment (bytes)</string>
+    <string name="zipalign_page_alignment">Shared library page alignment</string>
+    <string name="zipalign_enable_shared_library_alignment">Apply page alignment to uncompressed .so files</string>
+    <string name="zipalign_action_title">Actions</string>
+    <string name="zipalign_verify">Verify</string>
+    <string name="zipalign_align">Align and Export</string>
+    <string name="zipalign_result_title">Result</string>
+    <string name="zipalign_result_empty">Run verification or alignment to see the result.</string>
+    <string name="zipalign_result_counts">Aligned: %1$d | Misaligned: %2$d</string>
+    <string name="zipalign_total_padding">Added padding: %1$s</string>
+    <string name="zipalign_console_title">Output</string>
+    <string name="zipalign_console_empty">Console output appears here.</string>
+    <string name="zipalign_source_size">File size</string>
+    <string name="zipalign_source_path">Source path</string>
+    <string name="zipalign_export_directory">Export directory</string>
+    <string name="zipalign_output_size">Export size</string>
+    <string name="zipalign_output_path">Export path</string>
+    <string name="zipalign_pending">Working...</string>
+    <string name="zipalign_browse_path">Path</string>
+</resources>
